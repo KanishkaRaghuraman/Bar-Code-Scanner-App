@@ -23,4 +23,4 @@ Previous Step : <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-
 
 Now it's time to see how your app works!!
 
-Next Step: <a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/06%20Preview%20the%20App/Readme.md"> 06 Preview App</a>.
+Next Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/Readme.md"> 06 Preview App</a>.
