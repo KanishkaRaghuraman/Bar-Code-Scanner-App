@@ -31,6 +31,6 @@ Now, click anywhere on the grey bar on the bottom to open the logic of the varia
 
 
 
-Next Step: <a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/04%20Create%20Logic/readme.md" >04 Create Logic</a>
+Next Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/Readme.md" >04 Create Logic</a>
 
  
