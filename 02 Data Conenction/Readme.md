@@ -56,7 +56,7 @@ Now click on "<b>Save DATA Entity</b>".
 
 
 
-Next Step: <a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/03%20Create%20Data%20Variable/README.md"> 03 Create a Data Variable</a>
+Next Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/03%20Create%20a%20Data%20Variable/readme.md"> 03 Create a Data Variable</a>
  
 
 
