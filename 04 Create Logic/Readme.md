@@ -41,7 +41,7 @@ Now click on <b>SAVE</b>.
 
 
 
-Next Step: <a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/05%20Add%20New%20Component/Readme.md"> 05 Add New Component</a>
+Next Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/tree/main/05%20Add%20New%20Component"> 05 Add New Component</a>
 
 
 
