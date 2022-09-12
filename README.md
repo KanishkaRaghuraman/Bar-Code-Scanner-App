@@ -8,19 +8,19 @@ In this exercise you will learn how to create a no-code application using the SA
 
 All applications are created, edited, and managed within what we call a project, with one application created per project. Projects, and their related applications, are not automatically saved in this service, so care should be taken before closing a browser.
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/tree/main/00%20Create%20an%20Application"> 00 Create an AppGyver Project</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/00%20Create%20an%20Application/README.md"> 00 Create an AppGyver Project</a>
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/01%20App%20Interface/README.md"> 01 App Interface</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/01%20App%20Interface/README.md"> 01 App Interface</a>
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/tree/main/02%20Data%20Connection"> 02 Data Connection</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/02%20Data%20Conenction/Readme.md"> 02 Data Connection</a>
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/03%20Create%20Data%20Variable/README.md">03 Create Data Variable</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/03%20Create%20a%20Data%20Variable/readme.md">03 Create Data Variable</a>
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/04%20Create%20Logic/readme.md">04 Create Logic</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/Readme.md">04 Create Logic</a>
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/05%20Add%20New%20Component/Readme.md"> 05 Add New Component</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/tree/main/05%20Add%20New%20Component"> 05 Add New Component</a>
 
-<a href="https://github.tools.sap/I553337/Barcode-Scanner-App/blob/main/06%20Preview%20the%20App/Readme.md"> 06 Preview the App</a>
+<a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/Readme.md"> 06 Preview the App</a>
 
 
 
