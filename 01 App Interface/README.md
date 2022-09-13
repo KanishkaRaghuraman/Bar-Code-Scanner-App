@@ -15,7 +15,7 @@ Previous Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-A
  
  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/01%20App%20Interface/images/4%20Drag%20and%20drop%20button.png" alt=" drag and drop button">
  
-  5. You can change the label of the button on the properties tab. Change the label to “<b><i>Scan QR Code</b></i>”.
+  5. You can change the label of the button on the properties tab. Change the label to “<b><i>Scan BarCode</b></i>”.
  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/01%20App%20Interface/images/button.png" alt="button label">
 
 
