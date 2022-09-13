@@ -19,4 +19,4 @@ Previous Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-A
  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/01%20App%20Interface/images/button.png" alt="button label">
 
 
-Next Step: <a href="https://github.tools.sap/I553337/Barcode-Scanner-App/tree/main/02%20Data%20Connection"> 02 Data Connection</a>
+Next Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/02%20Data%20Conenction/Readme.md"> 02 Data Connection</a>
