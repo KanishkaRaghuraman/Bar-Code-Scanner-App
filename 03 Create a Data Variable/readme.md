@@ -9,7 +9,7 @@ Previous Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-A
   <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/03%20Create%20a%20Data%20Variable/images/01%20UI%20Canvas.png" alt="UI Canvas">
 
  2. Switch to "<b>Variables View</b>".
-  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/03%20Create%20a%20Data%20Variable/images/02%20Variable%20View.png" alt="Variables View">
+  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Screenshot%202022-09-13%20at%2015.55.49.png?raw=true" alt="Variables View">
   
   3. Now, select "<b><i>DATA VARIABLES</b></i>" and click on "<b><i>ADD DATA VARIABLE</b></i>".
   <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/03%20Create%20a%20Data%20Variable/images/03%20Add%20Data%20Variable.png" alt="Add Data Variable">
