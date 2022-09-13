@@ -15,11 +15,26 @@ Previous Step : <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-
 4. Open formula editor.
 <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/05%20Add%20New%20Component/4.%20Formula%20Editor.png" alt="formula editor">
 
-5. Enter this formula : <pre> "Calories per 100g : "+data.OpenFoodFacts1.product.nutriments.energy
+5. Clear the formula editor now select <b>Data Variable</b>. A list of available data variables will be displayed, now select <i><b>data.OpenFoodFacts1</i></b> and click on the <b>Enter+</b> icon.  
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Screenshot%202022-09-13%20at%2016.11.38.png?raw=true" alt="datavarform">
+
+6. Now a list of values available under <b>data.OpenFoodFacts1</b> appears. Now select <b>data.OpenFoodFacts1.product</b> and click on the <b>Enter+</b> icon to include it in the formula.
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Screenshot%202022-09-13%20at%2016.12.56.png?raw=true" alt="datavarform">
+
+7. A big list of values under <b>data.OpenFoodFacts1.product</b> will be shown. Scroll down to <b>data.OpenFoodFacts1.product.nutriments</b> and click on the <b>Enter+</b> icon to include it in the formula. If you are not able to find it, type ``` .nutriments``` after <b>data.OpenFoodFacts1.product</b> in the formula editor.
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/replace.png?raw=true" alt="datavarform">
+
+8. Under <b>data.OpenFoodFacts1.product.nutriments</b>, a big list of values will be displayed. Here you can select what value you want your app to show. To display the energy per 100g select <b>data.OpenFoodFacts1.product.nutriments.energy_100g</b> and click on the <b>Enter+</b>. 
+
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Screenshot%202022-09-13%20at%2016.14.57.png?raw=true" alt="datavarform">
+
+
+
+9.{Optional} Or you can simply enter this formula : <pre> "Calories per 100g : "+data.OpenFoodFacts1.product.nutriments.energy_100g
 </pre>
 
 &emsp;&emsp;click on Save
-<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/05%20Add%20New%20Component/5.%20Formua.png" alt="enter formula">
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Redo.png" alt="enter formula">
 
 Now it's time to see how your app works!!
 
