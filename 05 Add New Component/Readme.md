@@ -36,6 +36,10 @@ Previous Step : <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-
 &emsp;&emsp;click on Save
 <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Redo.png" alt="enter formula">
 
+10. Click on <b>Save</b> to save the changes made to the application.
+
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/04%20Create%20Logic/images/Screenshot%202022-09-13%20at%2016.46.56.png" alt="Save">
+
 Now it's time to see how your app works!!
 
 Next Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/Readme.md"> 06 Preview App</a>.
