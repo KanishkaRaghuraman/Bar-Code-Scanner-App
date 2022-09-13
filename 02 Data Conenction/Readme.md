@@ -22,7 +22,7 @@ In the Relative path field enter:
 
 <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/02%20Data%20Conenction/images/4%20Get%20record.png" alt="get record"> 
 
-5. Click the existing <b><i>URL placeholder key</b></i> , and then configure the following settings:<br><br>
+5. In the relative path filed you can see that <i>"barcode"</i> is entered with <b>{ }</b> because it's a place holder which will have dynamic data. That is every time the API is called it will have a different barcode value in that place holder. To configure it click the existing <b><i>URL placeholder key</b></i> , and then configure the following settings:<br><br>
 &emsp;&emsp;•	<b><i>Label</b></i>: Barcode<br><br>
 &emsp;&emsp;•	<b><i>Key</b></i>: barcode<br><br>
 &emsp;&emsp;•	<b><i>Value type</b></i>: Text<br><br>
