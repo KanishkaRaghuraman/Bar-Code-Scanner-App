@@ -30,7 +30,7 @@ Previous Step : <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-
 
 
 
-9.{Optional} Or you can simply enter this formula : <pre> "Calories per 100g : "+data.OpenFoodFacts1.product.nutriments.energy_100g
+9.{Optional} Or you can simply enter this formula : <pre> "Energy(kJ per 100g) : "+data.OpenFoodFacts1.product.nutriments.energy_100g
 </pre>
 
 &emsp;&emsp;click on Save
