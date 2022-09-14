@@ -3,7 +3,7 @@ Previous Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-A
 # Preview the App
 
 1. Click on the <b>Launch</b> tab on the top.
-<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/01.png" alt="launcb">
+<img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/Screenshot%202022-09-14%20at%2012.26.43.png" alt="launcb">
 
 2. Click on <b>Reveal QR code</b>.
 <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/02.png" alt="Reveal QR">
