@@ -22,7 +22,7 @@ Previous Step: <a href="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-A
   <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/6.jpeg" alt="projec">
   
  7. Now click on <i>Scan BarCode</i> button in your application.
-  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/IMG_7900.jpg?raw=true" alt="scan">
+  <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/IMG_7910.jpg?raw=true" alt="scan">
   
  8. Now, take any Snack or food item with a QR code and scan it with your phone.
 <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/8.jpeg" alt="scan food">
@@ -33,4 +33,4 @@ if you do not have a Snack with Barcode nearby, you can scan the below bardcode 
 9. Now you can see the calories of that food. 
    <b>Voilaa!!</b> <br>
    Congrats on building your first <i>no-code</i> app.
-   <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/IMG_7901.jpg?raw=true" alt="food">
+   <img src="https://github.com/KanishkaRaghuraman/Bar-Code-Scanner-App/blob/main/06%20Preview%20the%20App/images/IMG_7909.jpg" alt="food">
