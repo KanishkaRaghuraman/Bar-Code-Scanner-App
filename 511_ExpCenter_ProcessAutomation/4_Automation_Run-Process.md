@@ -2,6 +2,10 @@
 
 To run the process you have to first release and then deploy the business process project.
 
+To release a project, the process artifact should be complete without errors. The AI generated process maybe incomplete with some errors. In order to release the project, we will deleted the AI generated process.
+
+![released](./Images/410-Delete-AI.png)
+
 >Releasing a project creates a version or snapshot of the changes and deploying the project makes it available in runtime to be consumed. You can only deploy a released version of the project, and at a given time there can be multiple deployed versions of the same project.
 
 1. In the Process Builder, to release a project, select the **Release** button on the top-right corner of the screen.
